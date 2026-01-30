@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand Colors */
+  --color-primary: #0000ff;
+  --color-primary-light: #9e9eff;
+  --color-primary-dark: #00007b;
+
+  --color-secondary: #1e0687;
+  --color-secondary-light: #4024bd;
+  --color-secondary-dark: #120355;
+
+  /* Neutral UI Colors */
+  --color-muted: #f3f4f6; /* Gray-100 */
+  --color-muted-dark: #e5e7eb; /* Gray-200 */
+  --color-border: #d1d5db; /* Gray-300 */
+  --color-content: #111827; /* Gray-900 */
+  --color-content-alt: #4a5565; /* Gray-600 */
+  --color-neutral: #364153; /* Gray-700 */
+
+  /* Surface Colors */
+  --color-surface: #ffffff; /* Cards, panels */
+  --color-surface-alt: #ddeeff;
+
+  /* Semantic Colors */
+  --color-success: #10b981; /* Green 500 */
+  --color-success-light: #6ee7b7;
+  --color-success-dark: #047857;
+
+  --color-warning: #f59e0b; /* Amber 500 */
+  --color-warning-light: #fcd34d;
+  --color-warning-dark: #b45309;
+
+  --color-error: #ef4444; /* Red 500 */
+  --color-error-light: #fca5a5;
+  --color-error-dark: #b91c1c;
+
+  --color-info: #0ea5e9; /* Sky 500 */
+  --color-info-light: #7dd3fc;
+  --color-info-dark: #0369a1;
+}
