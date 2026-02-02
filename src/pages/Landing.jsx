@@ -14,9 +14,9 @@ const Landing = () => {
             Job <span className=" text-primary">Tracking</span> App
           </h1>
           <p className=" text-content font-medium lg:text-lg py-4 text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia
-            facere id, vel hic consequuntur debitis sint unde nulla rem earum,
-            itaque quia quo odio a!
+            A Job Application Tracker built to manage job applications
+            efficiently, allowing users to track company info, application
+            status, and updates through a clean, user-friendly interface.
           </p>
           <Link
             to={"/register"}
